@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        serif: ['var(--font-kaisei)'],
+        serif: ['var(--font-space-mono)'],
       },
       typography: {
         quoteless: {
